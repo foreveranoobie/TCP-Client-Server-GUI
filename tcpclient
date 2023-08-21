@@ -1,0 +1,7 @@
+#include "tcpclient"
+
+TcpClient::TcpClient(QObject *parent)
+    : QObject{parent}
+{
+
+}
